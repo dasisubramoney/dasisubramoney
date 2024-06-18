@@ -1,5 +1,7 @@
 ## Hi there, I am Dasendhran Subramoney 👋
 
+An outgoing and approachable personality. I can be described as a problem solver and analytical. I am open minded and I am never fearful of taking on a challenge as I see it as an opportunity to grow and develop myself. I constantly look for ways to improve myself and help others around me. I intend in pursuing a career in software development
+
 <!--
 **dasisubramoney/dasisubramoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
