@@ -3,7 +3,8 @@
 An outgoing and approachable personality. I can be described as a problem solver and analytical. I am open minded and I am never fearful of taking on a challenge as I see it as an opportunity to grow and develop myself. I constantly look for ways to improve myself and help others around me. I intend in pursuing a career in software development
 
 Toolbox 
-<img scr="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" height="50" />
+
+<img src="[./assets/component-1/navigation/cache-bank-logo.png](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg)">
 <img scr="icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50" />
 
 <!--
