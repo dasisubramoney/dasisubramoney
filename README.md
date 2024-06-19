@@ -5,6 +5,7 @@ An outgoing and approachable personality. I can be described as a problem solver
 Toolbox 
 
 <img scr="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" height="50" />
+<img scr="[https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)" alt="Javascript logo" width="50" height="50" />
 
 <!--
 **dasisubramoney/dasisubramoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
