@@ -4,8 +4,8 @@ An outgoing and approachable personality. I can be described as a problem solver
 
 Toolbox 
 
-<img src="[./assets/component-1/navigation/cache-bank-logo.png](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg)">
-<img scr="icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50" />
+<img src="./Images-icons/js.png" alt="Javascript logo" width="50" height="50">
+<img scr="icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50">
 
 <!--
 **dasisubramoney/dasisubramoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
