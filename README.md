@@ -4,8 +4,7 @@ An outgoing and approachable personality. I can be described as a problem solver
 
 Toolbox 
 
-<img src="./Images-icons/js.png" alt="Javascript logo" width="50" height="50">
-<img scr="icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50">
+<img src="./Images-icons/js.png" alt="Javascript logo" width="50" height="50"> <img src="./Images-icons/html-5.png" alt="HTML logo" width="50" height="50"><img src="./Images-icons/social.png" alt="CSS logo" width="50" height="50"><img src="./Images-icons/delphi.png" alt="Delphi logo" width="50" height="50"><img src="./Images-icons/java.png" alt="Java logo" width="50" height="50">
 
 <!--
 **dasisubramoney/dasisubramoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
